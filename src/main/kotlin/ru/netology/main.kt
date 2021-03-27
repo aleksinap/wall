@@ -4,6 +4,7 @@ import ru.netology.data.*
 import ru.netology.service.WallService
 
 fun main() {
+    p
     val post = Post(
         id = 4,
         ownerId = 12,
